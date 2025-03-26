@@ -18,5 +18,8 @@
     "url": "https://github.com/Gilbert278/ussd/issues"
   },
   "homepage": "https://github.com/Gilbert278/ussd#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.4.7"
+  }
 }
